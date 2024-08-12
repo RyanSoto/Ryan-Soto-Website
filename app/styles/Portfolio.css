@@ -1,0 +1,24 @@
+
+.portfolio {
+  width:fit-content;
+  margin-left:auto;
+  margin-right:auto;
+  padding-top: 0;
+  padding-bottom: 0;
+  }
+
+  .portfolio-container{
+    margin-top: 1%;
+
+  }
+
+
+  .portfolio-body-container {
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    margin-top: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    padding-bottom: 50px;
+}

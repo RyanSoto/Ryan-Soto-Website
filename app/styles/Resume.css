@@ -1,0 +1,86 @@
+.container > h1 {
+    color: #fff;
+    font-size: 50px;
+    margin-top: 10px;
+    
+}
+
+.page-title {  
+    position: relative;
+    margin:auto;
+    margin-top: 1%;
+    width:fit-content;
+}
+
+
+
+.resume-header {
+    color: #fff;
+    margin: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.resume-header > button {
+    background-color: rgba(0, 0, 0, 0);
+    color: #fff;
+    font-size: 15px;
+    margin-left: auto;
+    margin-right: 20px;
+    justify-content: right;
+    align-items: right;
+    border-radius: 100%;
+    box-shadow: inset 0 0 0 1px #ffffff;
+    display: inline-block;
+    height: 3.25rem;
+    line-height: 3.25rem;
+    text-align: center;
+    width: 3.25rem;
+    transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
+}
+.resume-header > button:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.resume-body {
+    color: #fff;
+    margin: 40px;
+    width:fit-content;
+
+}
+
+.resume-body > h1 {
+    color: #fff;
+    font-size: 40px;
+    margin-top: 10px;
+    border-bottom-style: solid;
+    width:fit-content;
+
+}
+
+.resume-body > h2 {
+    color: #fff;
+    font-size: 30px;
+    margin-top: 10px;
+    border-bottom-style: solid;
+    width:fit-content;
+
+}
+
+.resume-body > h3 {
+    color: #fff;
+    font-size: 20px;
+    margin-top: 10px;
+    width:fit-content;
+
+}
+  
+.resume-body > p {
+    margin-top: 8px;
+    color: #fff;
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif;
+}

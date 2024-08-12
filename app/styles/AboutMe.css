@@ -1,0 +1,50 @@
+.about-me-body {
+    color: #fff;
+    margin: 40px;
+    text-align: center;
+    /* display: flex; */
+    /* flex-direction: row; */
+}
+
+.about-me-header > h1 {
+    text-align: center;
+    width:fit-content;
+    margin:auto;
+    }
+
+.about-me-body > h1 {
+    color: #fff;
+    /* margin:auto; */    
+    margin-top: 10px;
+    font-size: 40px;
+    border-bottom-style: solid;
+    width:fit-content;
+    text-align: center;
+}
+
+.about-me-body > h2 {
+    color: #fff;
+    width:40%;
+    font-size: 30px;
+    margin-top: 10px;
+    border-bottom-style: solid;
+    padding: 5px;
+    /* margin-left:5% */
+    /* margin:auto; */
+}
+
+.about-me-body > h3 {
+    width:fit-content;
+    color: #fff;
+    font-size: 25px;
+    margin-top: 10px;
+}
+  
+.about-me-body > p {
+    margin-top: 8px;
+    width:fit-content;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+      'Lucida Sans', Arial, sans-serif;
+}
