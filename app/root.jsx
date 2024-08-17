@@ -5,7 +5,6 @@ import {
   Scripts,
   ScrollRestoration,
 } from "@remix-run/react";
-// import "./tailwind.css";
 import './styles/main.css'
 import { useCallback, useMemo, useEffect, useRef, useState } from "react";
 import Particles, { initParticlesEngine } from "@tsparticles/react";
@@ -124,7 +123,3 @@ export function Layout({ children }) {
 export default function App() {
   return <Outlet />;
 }
-
-// export function links() {
-//   return[{ rel: 'stylesheet', href: styles }]
-// }

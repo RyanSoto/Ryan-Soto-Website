@@ -11,13 +11,13 @@ function Cards() {
               src='images/coolbreezewebsite.png'
               text='Property management website with back-end utility.'
               label='CoolBreezeTexas.com'
-              path='http://www.coolbreezetexas.com'
+              path='www.coolbreezetexas.com'
             />
             <CardItem
               src='images/PokeDash.png'
               text='Pokemon style delivery game with my interactive resume. '
               label='PokeDasher'
-              path='http://www.ryan-soto.com/PokeDasher/'
+              path='www.ryan-soto.com/PokeDasher/'
             />
             <CardItem
               src='images/Github.png'

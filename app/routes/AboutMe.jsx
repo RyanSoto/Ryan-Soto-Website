@@ -27,9 +27,9 @@ export default function AboutMe() {
             <p className="vectro vectro-body">
               Insufferable 90's kid. I love groovy tunes and good food. I'm an
               avid gamer. Always have been. I currently enjoy playing Starcraft
-              2 despite it's age, Escape from Tarkov despites it's problems, and
+              2 despite it's age, Escape from Tarkov despite it's problems, and
               Rust despite it's community. I very much enjoy the surf, sand, and
-              snow. I love to get to the beach when the sun it out or hit the
+              snow. I love to get to the beach when the sun is out or hit the
               slopes when the powder is fresh. I make a tasty alfredo sauce and
               toss my own pizza dough. I'd like to one day own a small pizza
               joint or classic car lot. I have been fixated on 50's - 70's cars

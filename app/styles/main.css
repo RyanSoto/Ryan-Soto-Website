@@ -4,6 +4,7 @@
 @import url(https://fonts.googleapis.com/css?family=Candal);
 @import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
 @import url(https://fonts.googleapis.com/css?family=Monoton);
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -141,6 +142,7 @@
   -webkit-animation-name: cop_before_effect;
   -webkit-animation-duration: 5s;
   -webkit-animation-delay: 2s;
+  animation-delay: 2s;
   -webkit-animation-timing-function: linear;
   -webkit-animation-iteration-count: infinite;
 }
