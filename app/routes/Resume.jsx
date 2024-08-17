@@ -61,8 +61,8 @@ export default function Resume() {
             </p>
             <h3 className="vectro vectro-body"> Personal Projects</h3>
             <p className="vectro vectro-body">
-              Developing a delivery game as hobby a using OOP with vanilla
-            JavaScript. This uses mostly JavaScript with HTML/CSS. I assembled
+              Developing a delivery game as a hobby using OOP with vanilla
+            JavaScript and HTML/CSS. I assembled
             the art using Tiled for the maps and Aesprite for the characters/objects.
             Check out "PokeDasher" on my website and inspect the code in my
             GitHub
@@ -70,7 +70,7 @@ export default function Resume() {
             <h3 className="vectro vectro-body"> Freelance Web Developer</h3>
             <p className="vectro vectro-body">
               Web development from the top to the bottom. Front-end and back-end
-            implementation of PHP to construct websites and drive datae through
+            implementation of PHP to construct websites and drive data through
             MySQL databases. Designed and built from scratch databases to be
             used managing user data, facilitate book keeping, construct forms and
             receipts, or collect and store feedback.
