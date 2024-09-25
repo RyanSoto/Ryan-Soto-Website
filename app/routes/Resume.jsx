@@ -23,6 +23,8 @@ export default function Resume() {
 
     <div className="container">
       <Header />
+      <div className="inner-mainbody-container">
+
         <div className="inner-body-container">
           <div className="page-title">
           <h1 className="vectro vectro-body">
@@ -76,7 +78,8 @@ export default function Resume() {
             receipts, or collect and store feedback.
             </p>
           </div>
-          <Footer />
+      </div>
+      <Footer />
       </div>
     </div>
 
