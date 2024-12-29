@@ -8,7 +8,7 @@ export default function Header() {
             buttonLink='/'
             // className=''
             // buttonStyle=''
-            // buttonSize=''
+            // buttonSize='btn--medium'
             >
             <h3 className="future">Ryan Soto</h3>
             <h1 className="cop">Software Engineer</h1>

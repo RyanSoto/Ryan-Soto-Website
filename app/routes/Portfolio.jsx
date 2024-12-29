@@ -1,6 +1,5 @@
 import Cards from "../components/Cards";
 import "../styles/Portfolio.css";
-import Footer from "../components/Footer";
 import Header from "../components/Header";
 
 export default function Portfolio() {
@@ -15,7 +14,6 @@ export default function Portfolio() {
         <div className='portfolio'><h1 className="vectro vectro-body">Check out my projects!</h1></div>
         </div>
           <Cards />
-        <Footer />
         </div>
       </div>
   );

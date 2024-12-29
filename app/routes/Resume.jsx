@@ -1,5 +1,4 @@
 import "../styles/Resume.css";
-import Footer from "../components/Footer";
 import Header from "../components/Header";
 
 export default function Resume() {
@@ -78,8 +77,7 @@ export default function Resume() {
             receipts, or collect and store feedback.
             </p>
           </div>
-      </div>
-      <Footer />
+          </div>
       </div>
     </div>
 

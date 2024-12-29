@@ -1,5 +1,4 @@
 import React from "react";
-import Footer from "../components/Footer";
 import Header from "../components/Header";
 import "../styles/AboutMe.css";
 
@@ -37,7 +36,6 @@ export default function AboutMe() {
               lot of my style is influenced by retro designs.
             </p>
           </div>
-        <Footer />
         </div>
       </div>
 
