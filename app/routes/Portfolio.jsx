@@ -1,20 +1,14 @@
-import Cards from "../components/Cards";
-import "../styles/Portfolio.css";
-import Header from "../components/Header";
+import MainComp from "../components/MainComp";
+
+export const meta = () => {
+  return [
+    { title: "Portfolio - Ryan Soto" },
+    { name: "Ryan Soto's Portfolio", content: "Check out Ryan Soto's projects" },
+  ];
+};
 
 export default function Portfolio() {
-
   return (
-
-      <div className="container">
-        <Header />
-        <div className="inner-body-container">
-        <div className='portfolio-container'>
-        <div className='portfolio'><h1 className="vectro vectro-body">Portfolio</h1></div>
-        <div className='portfolio'><h1 className="vectro vectro-body">Check out my projects!</h1></div>
-        </div>
-          <Cards />
-        </div>
-      </div>
+    <MainComp initialPage="portfolio" />
   );
 }
